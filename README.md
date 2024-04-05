@@ -21,7 +21,7 @@ The Weather Forecast App is a straightforward web application designed to fetch 
 - Responsive Design: The Weather App is designed to be responsive, ensuring that it works well on different devices and screen sizes.
 Users can access the app and view weather information on their desktops, laptops, tablets, or mobile devices.
 ## Benefits
--Real-time Weather Information: Users can obtain up-to-date weather data for any desired location, enabling them to make informed decisions based on current and forecasted weather conditions.
+- Real-time Weather Information: Users can obtain up-to-date weather data for any desired location, enabling them to make informed decisions based on current and forecasted weather conditions.
 
 - User-friendly Interface: The application offers a clean and intuitive interface for entering locations and viewing weather information. It presents data in a clear and organized manner, enhancing the user experience.
 
