@@ -28,3 +28,7 @@ Users can access the app and view weather information on their desktops, laptops
 - Planning and Preparedness: The Weather App allows users to plan their activities and make informed decisions based on weather forecasts. They can adapt their schedules, clothing, or travel plans accordingly, enhancing safety and convenience.
 
 - API Integration: By integrating with a weather API, the app can leverage the data and capabilities provided by the API, ensuring accurate and reliable weather information.
+## Output
+![Screenshot 2024-04-05 191308](https://github.com/Sheethalshanthraj/Weather-Forecast/assets/140137118/25f4a910-4580-4c52-b2da-7c86adf57fae)
+![Screenshot 2024-04-05 192323](https://github.com/Sheethalshanthraj/Weather-Forecast/assets/140137118/4cd61b4a-407c-4588-9bf7-ee150118b3f9)
+![Screenshot 2024-04-05 192335](https://github.com/Sheethalshanthraj/Weather-Forecast/assets/140137118/b1522a53-b774-424a-994b-11478d288b2e)
